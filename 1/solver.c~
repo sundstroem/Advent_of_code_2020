@@ -1,0 +1,8 @@
+
+void parser(int *A, char* file) {
+  
+}
+
+int main() {
+  return 0;
+}
